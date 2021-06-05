@@ -34,11 +34,11 @@ export const RoundSpanContainer = styled.div`
         height: 3rem;
       `}
 
-      border: 0.2rem solid #e9e9e9;
-    border-top: 0.2rem solid #fc9003;
-    border-right: 0.2rem solid #fac278;
-    border-bottom: 0.2rem solid #ffe2bd;
-    border-left: 0.2rem solid #ffefdb;
+      border: 0.2rem solid #D4F1F4;
+    border-top: 0.2rem solid #75E6DA;
+    border-right: 0.2rem solid #189AB4;
+    border-bottom: 0.2rem solid #05445E;
+    border-left: 0.2rem solid #D4F1F4;
 
     border-radius: 50%;
     box-shadow: inset 0 2px 10px rgba(0, 0, 0, 0.4);

@@ -5,5 +5,5 @@
 
 /* ou */
 
-> npm run start
+> npm start
 ```
